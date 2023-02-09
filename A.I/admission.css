@@ -1,0 +1,13 @@
+.admission{background-color: #6096B4;
+    border-left: 20px;
+    border-right: 60px;}
+.admin{ background-color: #E5FDD1; padding-left: 20px; padding-right: 60px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri,;
+border-left: 20px;
+border-right: 60px;}
+.doc{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+border-left: 40px;
+padding-left: 20px;
+background-color: black;
+color: chartreuse;
+font-size: 40px;}
+body{background-color: #BDCDD6;}
